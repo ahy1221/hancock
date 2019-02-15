@@ -16,7 +16,7 @@ biocViews: GeneExpression, Transcriptomics, SingleCell, Sequencing,
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 3.6.0), SummarizedExperiment, unisets
+Depends: R (>= 3.5.0), SummarizedExperiment, unisets
 Imports:
     Biobase,
     BiocGenerics,
